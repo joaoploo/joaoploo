@@ -1,6 +1,6 @@
-## Olá! seja bem vindo ao meu perfil
+## E ae, eu sou o João!
 
-- E ae, eu sou o João!
+- Bem Vindo ao meu Perfil!!
 - Cursando 3° semestre em Desenvolvimento de Sistemas.
 - Focado em Desenvolvimento FrontEnd.
 - Pronouns Ele/Dele
